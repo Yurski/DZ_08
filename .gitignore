@@ -1,0 +1,8 @@
+mongo-db/.dbshell
+mongo-db/_mdb_catalog.wt
+mongo-db/*.wt
+mongo-db/mongod.lock
+mongo-db/storage.bson
+mongo-db/WiredTiger
+mongo-db/WiredTiger.lock
+mongo-db/WiredTiger.turtle
